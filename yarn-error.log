@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\wtae1216\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js set version stable
+
+PATH: 
+  C:\Python310\Scripts\;C:\Python310\;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseSVN\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\Gow\bin;C:\Windows\system32\wbem;C:\Program Files (x86)\IVT Corporation\BlueSoleil\Mobile;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\ComposerSetup\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\SlikSvn\bin;C:\Users\wtae1216\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\mingw64;C:\Users\wtae1216\AppData\Local\Microsoft\WindowsApps;C:\Projects\afreecatv\Etc\php-7.2.21-nts-Win32-VC15-x64;C:\Users\wtae1216\AppData\Local\Programs\Fiddler;C:\Users\wtae1216\AppData\Local\Microsoft\WindowsApps;C:\Users\wtae1216\AppData\Local\Yarn\bin;C:\Users\wtae1216\AppData\Roaming\Composer\vendor\bin;C:\Users\wtae1216\AppData\Roaming\npm;D:\java\jdk-11\bin;C:\Users\wtae1216\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\wtae1216\.dotnet\tools;C:\Users\wtae1216\AppData\Local\afreeca;C:\Users\wtae1216\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\wtae1216\AppData\Local\JetBrains\Toolbox\scripts;
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  16.18.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Release not found: stable
+      at C:\Users\wtae1216\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:90296:17
+      at Generator.next (<anonymous>)
+      at step (C:\Users\wtae1216\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\wtae1216\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+
+npm manifest: 
+  {
+    "name": "bullmp-test",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
