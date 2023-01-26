@@ -28,7 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["bullmq", "npm:3.5.6"],\
+            ["bullmq", "npm:3.5.10"],\
             ["ioredis", "npm:5.2.5"]\
           ],\
           "linkType": "SOFT"\
@@ -241,17 +241,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["bullmp-test", "workspace:."],\
-            ["bullmq", "npm:3.5.6"],\
+            ["bullmq", "npm:3.5.10"],\
             ["ioredis", "npm:5.2.5"]\
           ],\
           "linkType": "SOFT"\
         }]\
       ]],\
       ["bullmq", [\
-        ["npm:3.5.6", {\
-          "packageLocation": "./.yarn/cache/bullmq-npm-3.5.6-90854df629-de4c0c2ee8.zip/node_modules/bullmq/",\
+        ["npm:3.5.10", {\
+          "packageLocation": "./.yarn/cache/bullmq-npm-3.5.10-e5d82536b9-955e549b76.zip/node_modules/bullmq/",\
           "packageDependencies": [\
-            ["bullmq", "npm:3.5.6"],\
+            ["bullmq", "npm:3.5.10"],\
             ["cron-parser", "npm:4.7.1"],\
             ["glob", "npm:8.1.0"],\
             ["ioredis", "npm:5.2.5"],\

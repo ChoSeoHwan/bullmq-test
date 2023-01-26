@@ -1,5 +1,5 @@
 import { Queue, Worker } from 'bullmq';
-import Redis, { Cluster } from 'ioredis';
+import Redis from 'ioredis';
 
 const redis = new Redis(6379, '127.0.0.1');
 

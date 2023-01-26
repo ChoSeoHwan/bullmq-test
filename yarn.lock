@@ -179,14 +179,14 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "bullmp-test@workspace:."
   dependencies:
-    bullmq: ^3.5.6
+    bullmq: ^3.5.10
     ioredis: ^5.2.5
   languageName: unknown
   linkType: soft
 
-"bullmq@npm:^3.5.6":
-  version: 3.5.6
-  resolution: "bullmq@npm:3.5.6"
+"bullmq@npm:^3.5.10":
+  version: 3.5.10
+  resolution: "bullmq@npm:3.5.10"
   dependencies:
     cron-parser: ^4.6.0
     glob: ^8.0.3
@@ -196,7 +196,7 @@ __metadata:
     semver: ^7.3.7
     tslib: ^2.0.0
     uuid: ^9.0.0
-  checksum: de4c0c2ee8cf6277a38796e7d808a92c8cf5dab80e4bbd87039a4099713ffce5571051ba336beb4671f56c36aac2776c681fd2623c26e67a64a06913e7aab058
+  checksum: 955e549b768683cc704e3f4fa351609a2d154de03122d369daa96be76718585fcf2340eaca003e8f9f2addee3358fb9c923de66009fee729f7bf51b5f1152ad2
   languageName: node
   linkType: hard
 
